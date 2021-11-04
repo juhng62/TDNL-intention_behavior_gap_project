@@ -1,9 +1,9 @@
 {
-  "name": "Boredom Proneness Scale Survey",
-  "exp_id": "boredom-proneness-survey",
+  "name": "Boredom Proneness Scale Short Form Survey",
+  "exp_id": "boredom-proneness-short-form-survey",
   "description": "A measure of trait boredom",
   "instructions": "For all questions, please choose one of the following",
-  "url": "https://github.com/expfactory-experiments/boredom-proneness-survey",
+  "url": "https://github.com/expfactory-experiments/boredom-proneness-short-form-survey",
   "template":"survey",
   "cognitive_atlas_task_id": "",
   "contributors": [
